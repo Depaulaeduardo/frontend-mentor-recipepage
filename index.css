@@ -1,0 +1,201 @@
+* {
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+
+
+body {
+background: #F3E5D7 ;
+margin: 123px 352px 124px 352px;
+margin-inline: auto;
+width: auto;
+max-width: 720px;
+min-width: 187px;
+}
+
+
+
+p {
+    font-size: 16px;
+    color: #5F564D;
+   
+}
+
+#card  {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    width: 736px;
+    height: 1722px;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+
+    display: block;
+      
+}
+
+
+img {
+
+    border-radius: 12px;
+    object-fit: fill;
+    height: 337px ;
+    width:100%;
+    display: blo;
+}
+
+  
+#text-content   {
+    margin: 0;
+    display: block;
+   
+}
+
+
+
+h1 {
+    padding-bottom: 24px;
+    padding-top: 40px;
+    color: #312E2C;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    text-align: justify;
+   
+   
+}
+
+#text-content p {
+    color: #5F564D;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+          
+}
+
+#Preparation {
+ background-color: #FFF7FB ;
+ padding: 28px;
+ margin: 32px;
+
+}
+
+.Preparation {
+    color: #F3E5D7;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    padding-bottom: 16px;
+    text-align: justify;
+  
+}
+
+#Ingredients {
+    padding-bottom: 32px;
+}
+#Ingredients h2 {
+    color: #854632;
+    padding-bottom: 24px;
+    text-align: justify;
+   
+}
+
+
+ul {
+    color: #5F564D;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.8 ;
+    padding-left: 20px;
+   
+}
+
+hr {
+    color: #E3DDD7;
+
+}
+
+#Instructions {
+    padding: 32px 0 32px 0 ;
+}
+
+#Instructions h2 {
+    color: #854632;
+    padding-bottom: 24px;
+}
+
+ol {
+    
+        color: #5F564D;
+        font-family: "Outfit", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        line-height: 1.8 ;
+        text-align: justify;
+        padding-left: 20px;
+      
+        
+   
+}
+
+#Nutrition{
+    padding: 32px 0 ;
+
+}
+
+#Nutrition h2 {
+    color: #854632;
+    padding-bottom: 32px;
+   
+}
+
+#Nutrition p {
+    padding-bottom: 32px;
+}
+
+table td {
+    color: #5F564D;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.8 ;
+    text-align: justify;
+    border-bottom: 1px solid #E3DDD7;
+}
+
+.td {
+    color: #854632;
+    font-weight: bold;
+    
+}
+
+
+@media screen and (max-width: 360px) {
+    body {
+      margin: 0;
+      
+     }
+
+
+}
+
+
+
+    
+    
+    
