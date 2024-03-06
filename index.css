@@ -15,7 +15,7 @@ body {
 background: #F3E5D7 ;
 margin: 123px 352px 124px 352px;
 margin-inline: auto;
-width: auto;
+width: 100%;
 max-width: 720px;
 min-width: 187px;
 }
@@ -141,14 +141,12 @@ ol {
     
         color: #5F564D;
         font-family: "Outfit", sans-serif;
-       git 
+        
         font-weight: 400;
         font-style: normal;
         line-height: 1.8 ;
         text-align: justify;
-        padding-left: 20px;
-      
-        
+        padding-left: 20px;    
    
 }
 
@@ -185,12 +183,19 @@ table td {
 }
 
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 600px) {
     body {
       margin: 0;
-      
+     
      }
 
+     
+
+     
+ 
+       
+    
+    
 
 }
 
