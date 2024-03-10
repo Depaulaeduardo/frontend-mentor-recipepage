@@ -14,11 +14,16 @@
 
 body {
 background: #F3E5D7 ;
-margin: 123px 352px 124px 352px;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+
+/*margin: 123px 352px 124px 352px;
 margin-inline: auto;
 width: 100%;
 max-width: 720px;
-min-width: 187px;
+min-width: 187px;*/
 }
 
 
