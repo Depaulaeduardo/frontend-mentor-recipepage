@@ -198,12 +198,19 @@ table td {
     }
  
     body {
-      margin: 0;
+
+
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+
+      /*margin: 0;
       border: 0;
       padding: 0;
       background-color: white;
       width: auto;
-      overflow: hidden;
+      overflow: hidden;*/
       
       
       
